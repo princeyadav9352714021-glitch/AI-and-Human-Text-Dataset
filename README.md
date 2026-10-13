@@ -2,7 +2,8 @@
 
 This is a Streamlit frontend for the trained TF-IDF + Linear SVM model from `AI_and_Human_Text_Dataset.ipynb`.
 ---
-![App Demo](Recording 2026-10-13 112304.gif)
+![App Demo](video.gif)
+
 ---
 ## Folder structure
 
